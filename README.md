@@ -1,6 +1,8 @@
 Simple app to render 3D cubes with your dimensions using three js library and its efficient bufferGeometry.
 There is 3 input forms for your length, width and height. Press "Render" button, to render your cube with three js.
 
+Original OrbitControl.js file is a bit changed. 
+
 This React project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
